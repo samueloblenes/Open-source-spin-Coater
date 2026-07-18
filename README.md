@@ -29,6 +29,11 @@ The instrument is built around a vacuum-chuck substrate holder driven by a senso
 - [ ] PCB layout
 - [ ] Full assembly & validation
 
+<p float="left">
+  <img src="docs/images/spin coater section view.png" width="45%" />
+  <img src="docs/images/spincoater preliminary design transparent" width="45%" />
+</p>
+
 ## Repository Structure
 ```
 spin-coater/
