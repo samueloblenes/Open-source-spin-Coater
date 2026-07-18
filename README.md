@@ -31,7 +31,7 @@ The instrument is built around a vacuum-chuck substrate holder driven by a senso
 
 <p float="left">
   <img src="docs/images/spin coater section view.png" width="45%" />
-  <img src="docs/images/spin coater preliminary design" width="45%" />
+  <img src="docs/images/spin coater preliminary design.png" width="45%" />
 </p>
 
 ## Repository Structure
