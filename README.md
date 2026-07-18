@@ -1,1 +1,1 @@
-# Open-source-spin-Coater
+# open-source-spin-Coater
