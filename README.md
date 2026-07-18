@@ -46,7 +46,6 @@ spin-coater/
 This design builds on prior open-source spin coater projects, including:
 
 - [Maasi](https://github.com/klotzsch-lab/Maasi) (Klotzsch Lab, HU Berlin) - sensorless motor + ESC telemetry approach
-- [mcbridejc/spincoater](https://github.com/mcbridejc/spincoater) - motor selection and RPM sensing precedent
 - [Blueprint IoT](https://www.youtube.com/watch?v=gWZm44vas9E) - inspiration for the vacuum chuck design
 
 ## License
