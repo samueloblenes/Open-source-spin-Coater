@@ -64,4 +64,4 @@ Samuel O'Blenes
 
 GitHub: [@samueloblenes](https://github.com/samueloblenes)
 
-This is a work in progress — design files, firmware, and documentation will be updated as the project develops. Feedback and suggestions are welcome via GitHub Issues.
+This is a work in progress, design files, firmware, and documentation will be updated as the project develops. Feedback and suggestions are welcome via GitHub Issues.
